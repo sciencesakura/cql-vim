@@ -24,6 +24,7 @@ syn keyword cqlKeyword         on or primary reversed
 syn keyword cqlKeyword         select set truncate
 syn keyword cqlKeyword         where with update use using values
 syn keyword cqlKeyword         asc desc
+syn keyword cqlKeyword         aggregate all allow alter as begin called compact counter custom default distinct entries filtering finalfunc full grant function functions group initcond input json keys language mbean mbeans materialized norecursive nosuperuser of options permission permissions rename replace returns revoke role roles sfunc static storage stype superuser to trigger unlogged unset user users view
 
 " CQL 3 additions
 syn keyword cqlKeyword         table order by type if exists not frozen
